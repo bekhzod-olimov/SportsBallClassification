@@ -58,8 +58,4 @@ The inference progress:
 
 7. Inference Results (Predictions):
 
-![brain_preds](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/9a45fa89-bebd-4f46-a6df-f4bb3474bfd2)
-
-8. Inference Results (GradCAM):
-   
-![brain_gradcam](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/5327cdc1-72e3-4933-95b8-317779148675)
+![brain_preds](https://github.com/bekhzod-olimov/SportsBallClassification/assets/50166164/7a8ffd57-4f66-4383-a5f5-06d032dbc27f)
