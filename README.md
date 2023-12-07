@@ -7,7 +7,7 @@ This repository contains a deep learning (DL)-based artificial intelligence (AI)
 1. Clone the repo to your local machine using terminal via the following script:
 
 ```python
-git clone https://github.com/bekhzod-olimov/JellyfishClassifier.git
+git clone https://github.com/bekhzod-olimov/SportsBallClassification.git
 ```
 
 2. Create conda environment from yml file using the following script:
@@ -29,7 +29,7 @@ python main.py --root PATH_TO_THE_DATA --batch_size = 64 device = "cuda:0"
 ```
 The training parameters can be changed using the following information:
 
-![image](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/cc82512f-acc1-4762-9858-f7b870fd8637)
+![image](https://github.com/bekhzod-olimov/SportsBallClassification/assets/50166164/41a3b906-9ee0-4a12-b4c0-3262841c7861)
 
 The training process progress:
 
@@ -41,11 +41,11 @@ Use [DrawLearningCurves](https://github.com/bekhzod-olimov/JellyfishClassifier/b
 
 * Train and validation loss curves:
   
-![loss_learning_curves](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/ab064c7a-39c7-412d-a353-8f6c723a6ea0)
+![loss_learning_curves](https://github.com/bekhzod-olimov/SportsBallClassification/assets/50166164/16db0e9d-dd69-40c4-83d9-199038e3b542)
 
 * Train and validation accuracy curves:
   
-![acc_learning_curves](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/7493c4f3-fc18-443e-8002-5bcd62a12b55)
+![acc_learning_curves](https://github.com/bekhzod-olimov/SportsBallClassification/assets/50166164/fed231d0-4c8b-4398-ae3c-2d59a4421d51)
 
 6. Conduct inference using the trained model:
 ```python
