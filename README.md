@@ -1,6 +1,6 @@
 # Sports Ball Classification
 
-This repository contains a deep learning (DL)-based artificial intelligence (AI) image classification model training to classify different sports types. The AI model used for the classification task is RexNet ([paper](https://arxiv.org/pdf/2007.00992.pdf) and [code](https://github.com/clovaai/rexnet)) and the dataset for training is [Sports Image Classification Dataset](https://www.kaggle.com/datasets/sidharkal/sports-image-classification). The project in [Kaggle](https://www.kaggle.com/) can be found [here](https://www.kaggle.com/code/killa92/sports-classification-pytorch-98-accuracy).
+This repository contains a deep learning (DL)-based artificial intelligence (AI) image classification model training to classify balls used in different sports types. The AI model used for the classification task is RexNet ([paper](https://arxiv.org/pdf/2007.00992.pdf) and [code](https://github.com/clovaai/rexnet)) and the dataset for training is [Sports Balls Dataset](https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification). The project in [Kaggle](https://www.kaggle.com/) can be found [here](https://www.kaggle.com/code/killa92/sportballs-visualization-classification-pytorch).
 
 # Manual on how to use the repo:
 
