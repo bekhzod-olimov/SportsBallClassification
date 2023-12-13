@@ -33,7 +33,7 @@ The training parameters can be changed using the following information:
 
 The training process progress:
 
-![image](https://github.com/bekhzod-olimov/JellyfishClassifier/assets/50166164/ca68a5af-bef1-4b41-9412-648c2f4942c3)
+![image](https://github.com/bekhzod-olimov/SportsBallClassification/assets/50166164/dcd5a143-108d-45ae-bc86-fd111cef7e90)
 
 5. Learning curves:
    
