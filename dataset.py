@@ -1,13 +1,14 @@
 # Import libraries
 import torch, torchvision, os
 from torch.utils.data import random_split, Dataset, DataLoader
-from torch import nn
-from PIL import Image
-from torchvision import transforms as T
-from glob import glob
+from torch import nn; from PIL import Image
+from torchvision import transforms as T; from glob import glob
+# Set manual seed
 torch.manual_seed(2023)
 
 class CustomDataset(Dataset):
+
+    
     
     def __init__(self, root, data, transformations = None):
         
